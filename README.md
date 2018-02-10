@@ -1,3 +1,3 @@
 # hello-world
-Making a project </>
+Making a project
 This is the project
